@@ -1,3 +1,5 @@
-"# HelloWorld 1 2 3 " 
-hellow
-new test
+language: java
+jdk:
+  - oraclejdk8
+
+script: ant build
