@@ -4,4 +4,3 @@ jdk:
 
 script: ant build
 
-build.xml
